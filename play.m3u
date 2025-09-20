@@ -1,1 +1,5 @@
-
+#EXTINF:-1 tvg-id="Sport 1 Baltic.lt" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/8/86/Sport_1_Baltic_%281-%D1%8B%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF%2C_%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D0%BE-%D1%81%D0%B8%D0%BD%D0%B8%D0%B9%29.png/revision/latest?cb=20181121110453&path-prefix=ru" group-title="VIP SPORTS", SPORT 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08
+https://v4-vno-j13-cdn-01.live.cdn.cgates.lt/live/dash/561204/index.mpd
